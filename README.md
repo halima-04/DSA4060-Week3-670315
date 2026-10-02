@@ -49,7 +49,7 @@ The project demonstrates how to:
 14. Interpret recommendation results.
 15. Discuss limitations of a basic content-based recommender.
 
-This practical deliberately focuses on **structured features**. TF-IDF and cosine similarity are not used because they are reserved for the Week 4 practical.
+
 
 ---
 
