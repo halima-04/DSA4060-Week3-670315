@@ -1,6 +1,7 @@
 # DSA4060 Week 3 – Content-Based Movie Recommender
 
 **Student:** Halima Mohammed
+
 **Course:** DSA 4060 – Recommender Systems  
 **Practical:** Week 3 – Building a Simple Content-Based Recommender  
 **Tools:** Python, Jupyter Notebook, pandas
